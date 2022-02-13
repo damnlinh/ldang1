@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-<a href="https://www.instagram.com/damnlinh//">
+<a href="https://www.instagram.com/damnlinh/">
   <img align="left" alt="Linh's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://discord.gg/vpY3bMavz8">
